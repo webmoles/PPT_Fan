@@ -1,6 +1,4 @@
 # PPT_Fan
-A fan animation made by Microsoft Powerpoint.
+这是一个基于PPT制作的电风扇动画。
 
-> [!NOTE]
->
-> The `.pptx` files in this repository are created with a newer version of PowerPoint. If you are unable to open these files properly, you may choose to use the `.ppt` format files, which are compatible with older versions of PowerPoint.
+老规矩，项目有两个版本的ppt文件，二选一即可。不建议在过老的PowerPoint中运行，没在那里面测试过，不保证兼容性。
